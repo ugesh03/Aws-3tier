@@ -6,9 +6,6 @@ This project demonstrates a 3-tier web application hosted on AWS using:
 - **App Tier:** EC2 instances in private subnets
 - **Database Tier:** RDS (MariaDB)
 
-## Architecture
-![3tier](https://github.com/user-attachments/assets/012fa599-8dd0-49f7-96ff-14059792b42d)
-
 1️⃣ Presentation Layer (Web Tier)
  
 Components: Web Server (in an Auto Scaling Group)
@@ -67,3 +64,6 @@ Availability Zones (High Availability)
 ✅ Scalable using ASG
 ✅ Load Balanced Architecture
 ✅ Modular 3-tier design
+
+## Architecture
+![3tier](https://github.com/user-attachments/assets/012fa599-8dd0-49f7-96ff-14059792b42d)
