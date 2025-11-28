@@ -69,6 +69,10 @@ Availability Zones (High Availability)
 ![3tier](https://github.com/user-attachments/assets/012fa599-8dd0-49f7-96ff-14059792b42d)
 
 Output
-ALB-Link https://github.com/ugesh03/AWS_3-Tier_Web_Application/blob/main/Screenshot/ALB-link.png
-Web public Ip Screenshot/WEB-3tier.png
+ALB-Link 
+<img width="962" height="502" alt="ALB-link" src="https://github.com/user-attachments/assets/917bd856-b80a-4357-a62a-575b14678b6a" />
+
+Web public Ip 
+<img width="957" height="512" alt="WEB-3tier" src="https://github.com/user-attachments/assets/4b43f797-6112-4300-9cb9-29b6644feeaf" />
+
 
